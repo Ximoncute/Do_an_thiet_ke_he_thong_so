@@ -1,0 +1,45 @@
+{
+ "Device" : "GW1N-9C",
+ "Files" : [
+  {
+   "Path" : "C:/Users/Admin/Desktop/NAM_4_HIEU_CUTE/KY_2_NAM_4/Do_an_thiet_ke_he_thong_so/do_an_he_thong_so/src/BH1750_convert.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Admin/Desktop/NAM_4_HIEU_CUTE/KY_2_NAM_4/Do_an_thiet_ke_he_thong_so/do_an_he_thong_so/src/CLK_1500K.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Admin/Desktop/NAM_4_HIEU_CUTE/KY_2_NAM_4/Do_an_thiet_ke_he_thong_so/do_an_he_thong_so/src/CLK_500K.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Admin/Desktop/NAM_4_HIEU_CUTE/KY_2_NAM_4/Do_an_thiet_ke_he_thong_so/do_an_he_thong_so/src/I2C_RX.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Admin/Desktop/NAM_4_HIEU_CUTE/KY_2_NAM_4/Do_an_thiet_ke_he_thong_so/do_an_he_thong_so/src/I2C_TX.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Admin/Desktop/NAM_4_HIEU_CUTE/KY_2_NAM_4/Do_an_thiet_ke_he_thong_so/do_an_he_thong_so/src/LCD_send.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Admin/Desktop/NAM_4_HIEU_CUTE/KY_2_NAM_4/Do_an_thiet_ke_he_thong_so/do_an_he_thong_so/src/LCD_top.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Admin/Desktop/NAM_4_HIEU_CUTE/KY_2_NAM_4/Do_an_thiet_ke_he_thong_so/do_an_he_thong_so/src/TOP_module.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/Users/Admin/Desktop/NAM_4_HIEU_CUTE/KY_2_NAM_4/Do_an_thiet_ke_he_thong_so/do_an_he_thong_so/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

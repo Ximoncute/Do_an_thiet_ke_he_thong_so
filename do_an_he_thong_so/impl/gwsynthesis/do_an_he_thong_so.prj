@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-synthesis-project>
+<Project>
+    <Version>beta</Version>
+    <Device id="GW1N-9C" package="LQFP144" speed="6" partNumber="GW1N-LV9LQ144C6/I5"/>
+    <FileList>
+        <File path="C:\Users\Admin\Desktop\NAM_4_HIEU_CUTE\KY_2_NAM_4\Do_an_thiet_ke_he_thong_so\do_an_he_thong_so\src\BH1750_convert.v" type="verilog"/>
+        <File path="C:\Users\Admin\Desktop\NAM_4_HIEU_CUTE\KY_2_NAM_4\Do_an_thiet_ke_he_thong_so\do_an_he_thong_so\src\CLK_500K.v" type="verilog"/>
+        <File path="C:\Users\Admin\Desktop\NAM_4_HIEU_CUTE\KY_2_NAM_4\Do_an_thiet_ke_he_thong_so\do_an_he_thong_so\src\CLK_1500K.v" type="verilog"/>
+        <File path="C:\Users\Admin\Desktop\NAM_4_HIEU_CUTE\KY_2_NAM_4\Do_an_thiet_ke_he_thong_so\do_an_he_thong_so\src\I2C_RX.v" type="verilog"/>
+        <File path="C:\Users\Admin\Desktop\NAM_4_HIEU_CUTE\KY_2_NAM_4\Do_an_thiet_ke_he_thong_so\do_an_he_thong_so\src\I2C_TX.v" type="verilog"/>
+        <File path="C:\Users\Admin\Desktop\NAM_4_HIEU_CUTE\KY_2_NAM_4\Do_an_thiet_ke_he_thong_so\do_an_he_thong_so\src\LCD_send.v" type="verilog"/>
+        <File path="C:\Users\Admin\Desktop\NAM_4_HIEU_CUTE\KY_2_NAM_4\Do_an_thiet_ke_he_thong_so\do_an_he_thong_so\src\LCD_top.v" type="verilog"/>
+        <File path="C:\Users\Admin\Desktop\NAM_4_HIEU_CUTE\KY_2_NAM_4\Do_an_thiet_ke_he_thong_so\do_an_he_thong_so\src\TOP_module.v" type="verilog"/>
+    </FileList>
+    <OptionList>
+        <Option type="disable_insert_pad" value="0"/>
+        <Option type="global_freq" value="50.000"/>
+        <Option type="looplimit" value="2000"/>
+        <Option type="output_file" value="C:\Users\Admin\Desktop\NAM_4_HIEU_CUTE\KY_2_NAM_4\Do_an_thiet_ke_he_thong_so\do_an_he_thong_so\impl\gwsynthesis\do_an_he_thong_so.vg"/>
+        <Option type="print_all_synthesis_warning" value="0"/>
+        <Option type="ram_rw_check" value="0"/>
+        <Option type="vcc" value="1.2"/>
+        <Option type="verilog_language" value="verilog-2001"/>
+        <Option type="vhdl_language" value="vhdl-1993"/>
+    </OptionList>
+</Project>

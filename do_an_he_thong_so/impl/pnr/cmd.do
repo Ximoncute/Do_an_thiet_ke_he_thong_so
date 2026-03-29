@@ -1,0 +1,17 @@
+-d C:\Users\Admin\Desktop\NAM_4_HIEU_CUTE\KY_2_NAM_4\Do_an_thiet_ke_he_thong_so\do_an_he_thong_so\impl\gwsynthesis\do_an_he_thong_so.vg
+-p GW1N-9C-LQFP144-6
+-pn GW1N-LV9LQ144C6/I5
+-cst C:\Users\Admin\Desktop\NAM_4_HIEU_CUTE\KY_2_NAM_4\Do_an_thiet_ke_he_thong_so\do_an_he_thong_so\src\do_an_he_thong_so.cst
+-cfg C:\Users\Admin\Desktop\NAM_4_HIEU_CUTE\KY_2_NAM_4\Do_an_thiet_ke_he_thong_so\do_an_he_thong_so\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-convert_sdp32_36_to_sdp16_18
+-place_option 0
+-route_option 0
+-clock_route_order 0
+-correct_hold 1
+-route_maxfan 23
+-global_freq 50.000

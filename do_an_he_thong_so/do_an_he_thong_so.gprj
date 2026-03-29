@@ -1,0 +1,18 @@
+<?xml version="1" encoding="UTF-8"?>
+<!DOCTYPE gowin-fpga-project>
+<Project>
+    <Template>FPGA</Template>
+    <Version>5</Version>
+    <Device name="GW1N-9C" pn="GW1N-LV9LQ144C6/I5">gw1n9c-017</Device>
+    <FileList>
+        <File path="src/BH1750_convert.v" type="file.verilog" enable="1"/>
+        <File path="src/CLK_1500K.v" type="file.verilog" enable="1"/>
+        <File path="src/CLK_500K.v" type="file.verilog" enable="1"/>
+        <File path="src/I2C_RX.v" type="file.verilog" enable="1"/>
+        <File path="src/I2C_TX.v" type="file.verilog" enable="1"/>
+        <File path="src/LCD_send.v" type="file.verilog" enable="1"/>
+        <File path="src/LCD_top.v" type="file.verilog" enable="1"/>
+        <File path="src/TOP_module.v" type="file.verilog" enable="1"/>
+        <File path="src/do_an_he_thong_so.cst" type="file.cst" enable="1"/>
+    </FileList>
+</Project>
