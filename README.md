@@ -6,18 +6,64 @@
   <img src="https://img.shields.io/badge/Tools-Quartus%20Prime-orange.svg" alt="Quartus">
 </p>
 
-## 📋 Giới thiệu đồ án
+# Đồ án: Thiết kế Hệ Thống Số
 
-**Đồ án Thiết kế Hệ thống Số** là đồ án môn **Thiết kế Hệ thống Số** (Digital System Design).
+## Giới thiệu
+Repository này lưu trữ toàn bộ tài liệu, mã nguồn và file thiết kế của đồ án môn **Thiết kế hệ thống số**.
 
-Đồ án tập trung vào việc thiết kế các module hệ thống số bằng ngôn ngữ **Verilog**, mô phỏng và triển khai trên bo mạch **FPGA** sử dụng Intel Quartus Prime.
+Mục tiêu của dự án:
+- Thiết kế và mô phỏng hệ thống số.
+- Xây dựng mạch logic và kiểm tra hoạt động.
+- Triển khai mô hình hoạt động trên phần mềm mô phỏng hoặc phần cứng.
 
-### Tài liệu trong repository:
+Dự án được quản lý bằng GitHub để theo dõi quá trình phát triển và lưu trữ mã nguồn một cách hiệu quả. GitHub thường được sử dụng để quản lý source code và làm việc nhóm trong các dự án lập trình và kỹ thuật. :contentReference[oaicite:1]{index=1}
 
-- **Đề cương hệ thống số.docx** — Đề cương chi tiết đồ án
-- **Đồ_án_hệ_thống_số.docx** — Báo cáo Word đầy đủ
-- **Đồ_án_thiết_kế_hệ_thống_số.pdf** — Báo cáo hoàn chỉnh dạng PDF
-- **do_an_he_thong_so/** — Thư mục chứa source code Verilog và project Quartus
+---
+
+# Thông tin sinh viên
+
+Sinh viên thực hiện: Hieu Cute  
+Trường: Học viện Công nghệ Bưu chính Viễn thông (PTIT)  
+Ngành: Kỹ thuật Điện tử – Hệ thống nhúng  
+Môn học: Thiết kế hệ thống số  
+Năm học: 2025 – 2026  
+
+---
+
+# Nội dung dự án
+
+Dự án bao gồm các phần chính:
+
+## 1. Phân tích bài toán
+- Xác định yêu cầu hệ thống
+- Xác định đầu vào và đầu ra
+- Lập bảng chân lý (Truth Table)
+
+## 2. Thiết kế mạch logic
+- Sử dụng cổng logic:
+  - AND
+  - OR
+  - NOT
+  - NAND
+  - NOR
+- Rút gọn biểu thức bằng Karnaugh Map
+
+## 3. Mô phỏng hệ thống
+Dự án được mô phỏng bằng các công cụ như:
+- Proteus
+- Logisim
+- Multisim
+- FPGA simulation (nếu có)
+
+Mục tiêu:
+- Kiểm tra tính đúng đắn của mạch
+- Phát hiện lỗi thiết kế
+- Tối ưu mạch logic
+
+---
+## DEMO
+<img width="2048" height="1280" alt="image" src="https://github.com/user-attachments/assets/a4a0221b-5fc3-4b68-870f-dc8fd9cfa559" />
+<img width="830" height="1102" alt="image" src="https://github.com/user-attachments/assets/3712b8fa-a6cf-49b3-8c44-d2a0035a516a" />
 
 ## 📁 Cấu trúc thư mục hiện tại
 
@@ -28,3 +74,4 @@ Do_an_thiet_ke_he_thong_so/
 ├── Đồ_án_hệ_thống_số.docx
 ├── Đồ_án_thiết_kế_hệ_thống_số.pdf
 └── README.md
+
