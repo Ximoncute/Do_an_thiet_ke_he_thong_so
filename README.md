@@ -22,10 +22,10 @@ Dự án được quản lý bằng GitHub để theo dõi quá trình phát tri
 
 # Thông tin sinh viên
 
-Sinh viên thực hiện: Hieu Cute  
+Sinh viên thực hiện: Hiếu Cute - B23DCDT089  
 Trường: Học viện Công nghệ Bưu chính Viễn thông (PTIT)  
-Ngành: Kỹ thuật Điện tử – Hệ thống nhúng  
-Môn học: Thiết kế hệ thống số  
+Ngành: Kỹ thuật Điện tử Máy tính  
+Môn học: Đồ Án Thiết kế hệ thống số  
 Năm học: 2025 – 2026  
 
 ---
