@@ -1,0 +1,41 @@
+=N:[UsageMeter (2026-03-29 15:04:55 SE Asia Standard Time)] usage server initial connection
+=N:[License] 
+Licensed for Altair DSim Cloud.
+=N:[License] New lease granted.
+Analyzing...
+Elaborating...
+  Top-level modules:
+    $unit
+    I2C_TX_tb
+  Found 5 unique specialization(s) of 5 design element(s).
+=W:[MissingTimescale]:
+    It is illegal for some design elements to have time specifications    
+    while others don't.  A complete time specification includes           
+    both a time unit and time precision.                                  
+
+        Have complete time spec    Have no/incomplete time spec    
+
+        I2C_TX_tb                  I2C_TX                          
+
+Optimizing...
+Building models...
+PLI/VPI access: +b 
+Simulation time precision is 1ps.
+  [1/5] module $root: 98 functions, 231 basic blocks
+  [2/5] module $pkgs: 1 functions, 2 basic blocks
+  [3/5] CU scope $unit: 1 functions, 2 basic blocks
+  [4/5] module I2C_TX_tb: 13 functions, 180 basic blocks
+  [5/5] package std: 23 functions, 64 basic blocks
+Linking image.so...
+Using default typical min/typ/max.
+=S:Begin run-time elaboration and static initialization...
+=N:[dumpMXD] preparing MXD dump to 'test_bench_waves.mxd'.
+=N:[dump] Dump started at time 0
+=N:Starting event scheduler...
+Transmission finished.
+=N:[dumpMXD] closing MXD dump
+=T:Simulation terminated by $stop at time 11150000 (..\testbench\I2C_TX_tb.v:68);
+Run directory: C:\Users\Admin\Desktop\NAM_4_HIEU_CUTE\KY_2_NAM_4\Do_an_thiet_ke_he_thong_so\do_an_he_thong_so\sim\metric
+  System timescale is 1ps / 1ps
+  Altair DSim version: 2026.0.0 (b:R #c:127 h:14cc828913 os:msys2_)
+  Random seed: (defaulted to 1)
